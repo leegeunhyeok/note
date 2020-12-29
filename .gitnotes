@@ -1,5 +1,13 @@
 {
   "version": "0.1.0",
   "tags": [],
-  "notes": []
+  "notes": [
+    {
+      "id": "2c29674c-258c-4523-a53f-67a18a1a9671",
+      "tag": null,
+      "title": "GitNotes 시작하기",
+      "createdAt": 1609259854929,
+      "updatedAt": null
+    }
+  ]
 }
